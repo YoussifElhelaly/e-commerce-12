@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f6c83579.css",
+    "main.js": "/static/js/main.5a55bf6d.js",
+    "static/js/787.46493d11.chunk.js": "/static/js/787.46493d11.chunk.js",
+    "static/media/Header.webp": "/static/media/Header.7c6d181f916e44f78be2.webp",
+    "static/media/3column3.webp": "/static/media/3column3.e793d47455c54c829268.webp",
+    "static/media/hero.webp": "/static/media/hero.6561fd8814ca89e6769d.webp",
+    "static/media/3column1.webp": "/static/media/3column1.eb8f006da2d6b77cfc55.webp",
+    "static/media/ad-banner-sidebar.webp": "/static/media/ad-banner-sidebar.548c340d79526173b74d.webp",
+    "static/media/3column2.webp": "/static/media/3column2.df064a13402312aa3c8a.webp",
+    "static/media/people1.webp": "/static/media/people1.45cec50a79a51b36792c.webp",
+    "static/media/people4.webp": "/static/media/people4.7e45b26ae1035fbabd16.webp",
+    "static/media/two-banner-2.webp": "/static/media/two-banner-2.129300487718b6c0a1c6.webp",
+    "static/media/people2.webp": "/static/media/people2.0301fa380a63e46b0208.webp",
+    "static/media/people5.webp": "/static/media/people5.ef970063e7f07430e9a2.webp",
+    "static/media/people3.webp": "/static/media/people3.40c422f8ecd6a8ee8fc1.webp",
+    "static/media/footer-widget-img-01.webp": "/static/media/footer-widget-img-01.6f37f005d1b5c5d14c14.webp",
+    "static/media/ban-1.webp": "/static/media/ban-1.5e1c424264e23e534bb7.webp",
+    "static/media/two-banner-1.webp": "/static/media/two-banner-1.a4734893807150517513.webp",
+    "static/media/ban-3.webp": "/static/media/ban-3.9a55f45078f437c3883e.webp",
+    "static/media/ban-2.webp": "/static/media/ban-2.9dee723adf4f82656647.webp",
+    "static/media/ban-4.webp": "/static/media/ban-4.64b360e73c2eb7ff8acd.webp",
+    "static/media/ban-7.webp": "/static/media/ban-7.42f3aee998b28d4a7cec.webp",
+    "static/media/ban-5.webp": "/static/media/ban-5.121d45e347f00070c078.webp",
+    "static/media/ban-6.webp": "/static/media/ban-6.447647b4de46bf3d4589.webp",
+    "static/media/patment-icon1.webp": "/static/media/patment-icon1.c354347a871eac7c6190.webp",
+    "index.html": "/index.html",
+    "main.f6c83579.css.map": "/static/css/main.f6c83579.css.map",
+    "main.5a55bf6d.js.map": "/static/js/main.5a55bf6d.js.map",
+    "787.46493d11.chunk.js.map": "/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c83579.css",
+    "static/js/main.5a55bf6d.js"
+  ]
+}
